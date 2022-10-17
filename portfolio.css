@@ -1,125 +1,9 @@
 body {
-    margin: 0px;
+    margin: 0;
     background-color: #83cbad;
     font-family: roboto;
     color:  #426557;
     font-size: 25px;
-}
-
-.text {
-    font-size: 20px;
-    font-weight: 500;
-}
-
-.videos {
-    width: 100%;
-    max-width: 1000px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin: auto;
-}
-
-.images {
-    width: 100%;
-    max-width: 1000px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin: auto;
-}
-
-.content-discription {
-    width: 100%;
-    max-width: 1000px;
-    margin-top: 10px;
-    margin-left: auto;
-    margin-right: auto;
-    font-size: 18px;
-    font-weight: 400;
-    margin-bottom: 20px;
-    text-align: center;
-    display: flex;
-    flex-direction: column;
-}
-
-.navigation-master {
-}
-
-.header-image {
-    width: 100%;
-    height: 400px;
-    object-fit: cover;
-    align-items: center;
-    margin-bottom: 0;
-}
-
-.stop-motion-header-image {
-    width: 100%;
-    height: 500px;
-    object-fit: cover;
-    align-items: center;
-}
-
-
-.black-bar {
-    background-color: #E27D60;
-    width: 100%;
-    height: 50px;
-    margin-top: -10px;
-}
-
-.page-title {
-    text-align: center;
-    font-size: 40px;
-    font-weight: 600;
-    margin-top: 100px;
-}
-
-.page-introduction {
-    margin-top: 20px;
-    text-align: left;
-    font-weight: 500;
-    margin-bottom: 20px;
-    text-decoration: none;
-    display: flex;
-    flex-direction: row;
-}
-
-.page-introduction-irregular {
-}
-
-.about-page-headings {
-    margin-top: 30px;
-    margin-bottom: 30px;
-    font-size: 27px;
-    font-weight: 600;
-    width: 100%;
-    max-width: 1000px;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-}
-
-.page-introduction-start {
-    font-size: 27px;
-    width: 100%;
-    max-width: 1000px;
-    margin: auto;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-}
-
-.introduction-box {
-    max-width: 1000px;
-    margin: auto;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-.introduction-box-irregular {
 }
 
 .navigation-menu {
@@ -158,6 +42,196 @@ body {
     font-size: 25px;
 }
 
+.header-image {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    align-items: center;
+    margin-bottom: 0;
+}
+
+.header-video {
+    width: 100%;
+    height: 600px;
+    object-fit: cover;
+    align-items: center;
+    margin-bottom: 0;
+}
+
+.stop-motion-header-image {
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+    align-items: center;
+}
+
+.black-bar {
+    background-color: #E27D60;
+    width: 100%;
+    height: 50px;
+    margin-top: -10px;
+}
+
+.text {
+    margin-top: 300px;
+    font-size: 30px;
+    font-weight: 500;
+    margin: auto;
+    margin-bottom: 40px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 1000px;
+}
+
+.videos {
+    width: 100%;
+    max-width: 1000px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+}
+
+.images {
+    width: 100%;
+    max-width: 1000px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+}
+
+.content-discription {
+    width: 100%;
+    max-width: 1000px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.page-title {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 100px;
+}
+
+.page-introduction {
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.about-page-headings {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 27px;
+    font-weight: 600;
+    width: 100%;
+    max-width: 1000px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.page-introduction-start {
+    font-size: 27px;
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.introduction-box {
+    max-width: 1000px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.skills-bubbles-master {
+    font-size: 30px;
+    font-weight: 500;
+    color:  #522f25;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    width: 100%;
+    max-width: 700px;
+    height: 1000px;
+    margin: auto;
+    margin-bottom: 200px;
+}
+
+.skills-bubbles {
+    text-decoration: none;
+    width: 90%;
+    height: 60px;
+    background-color: #E27D60;
+    color: #522f25;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 2px 2px rgba(0, 0, 0, 0.179);
+    transition: all;
+    transition-duration: 0.3s;
+}
+
+.skills-bubbles:hover{
+    font-size: 40px;
+    width: 750px;
+    height: 70px;
+    box-shadow: 6px 6px rgba(0, 0, 0, 0.4);
+    color: #83cbad;
+}
+
+.skills-bubbles:active{
+    font-size: 100px;
+    width: 900px;
+    height: 500px;
+    box-shadow: 10px 10px rgba(0, 0, 0, 0.8);
+    color: #83cbad;
+}
+
+.audio-master{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    align-items: center;
+    width: 500px;
+}
+
+.audio-display{
+    z-index: 99;
+    border-radius: 10px;
+    background-color: #E27D60;
+    color: #E27D60;
+    font-family: roboto;
+    width: 100%;
+    max-width: 700px;
+    height: 100px;
+    margin-top: 20px;
+    transition: all;
+    transition-duration: 0.5s;
+}
+
+.audio-display:hover {
+    width: 650px;
+    height: 112px;
+}
+
 .download_link {
     font-size: 25px;
     color: #426557;
@@ -189,86 +263,6 @@ body {
     width: 900px
 }
 
-.resources {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin: auto;
-}
-
-.resource-links {
-
-}
-
-.master-resource-description {
-    font-size: 30px;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-.resource-unit-master {
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    align-items: center;
-    margin: auto;
-}
-
-.individual-resource-links {
-
-}
-
-.individual-resource-links-picture {
-    border-radius: 100px;
-    height: 160px;
-    margin: auto;
-    transition: all;
-    transition-duration: 0.3s;
-    align-items: center;
-}
-
-.individual-resource-links-picture:hover{
-    height: 200px;
-}
-
-.resource-description {
-    width: 200px;
-    text-align: center;
-}
-
-.audio-master{
-    display: flex;
-    flex-direction: column;
-    margin: auto;
-    align-items: center;
-    width: 500px;
-}
-
-.audio-display{
-    z-index: 99;
-    border-radius: 10px;
-    background-color: #E27D60;
-    color: #E27D60;
-    font-family: roboto;
-    width: 100%;
-    max-width: 700px;
-    height: 100px;
-    margin-top: 20px;
-    transition: all;
-    transition-duration: 0.5s;
-}
-
-.about-page-headings{
-}
-
-.audio-display:hover {
-    width: 650px;
-    height: 112px;
-}
-
 .shwinn-images-master {
     display: flex;
     flex-direction: row;
@@ -294,6 +288,48 @@ body {
     margin: auto;
 }
 
+
+.resources {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+}
+
+.master-resource-description {
+    font-size: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.resource-unit-master {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    margin: auto;
+}
+
+.individual-resource-links-picture {
+    border-radius: 100px;
+    height: 160px;
+    margin: auto;
+    transition: all;
+    transition-duration: 0.3s;
+    align-items: center;
+}
+
+.individual-resource-links-picture:hover{
+    height: 200px;
+}
+
+.resource-description {
+    width: 200px;
+    text-align: center;
+}
 .sch-link {
     color:  #426557;
 }
@@ -320,12 +356,4 @@ body {
     font-family: roboto;
     font-size: 30px;
     font-weight: 900;
-}
-
-.header-video {
-    width: 100%;
-    height: 600px;
-    object-fit: cover;
-    align-items: center;
-    margin-bottom: 0;
 }
