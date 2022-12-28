@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://www.nathansskills.com/</title>
+  <link>http://www.nathansskills.com/</link>
+
+<item>
+     <link>https://nathansskills.com/</link>
+     <title>Home - Nathan's Creative Portfolio | Nathan's Skills</title>
+     <description>A portfolio of Nathan's creative skills. See Nathan's best 3D renders, 2D animations, music and more!  </description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://nathansskills.com/index.html</link>
+     <title>Home - Nathan's Creative Portfolio | Nathan's Skills</title>
+     <description>A portfolio of Nathan's creative skills. See Nathan's best 3D renders, 2D animations, music and more!  </description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://nathansskills.com/3D.html</link>
+     <title>
+      3D Modeling and Animation - Nathan's Render Portfolio | Nathan's Skills
+    </title>
+     <description>VFX, CG and donut renders by Nathan, as well as his favourite 3D resources.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://nathansskills.com/2D.html</link>
+     <title>
+      2D Animation - Nathan's 2D Animation Portfolio | Nathan's Skills
+    </title>
+     <description> A collection of Nathan's top 2D drawn animations, plus 2D and 3D demo! </description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://nathansskills.com/stop_motion.html</link>
+     <title>
+      Stop Motion - Nathan's Stop Motion Portfolio | Nathan's Skills
+    </title>
+     <description>Nathan's Stop Motion Animation showcase. Early works through present!</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://nathansskills.com/photo_editing.html</link>
+     <title>Photos - Nathan's Photo Editing Portfolio | Nathan's Skills</title>
+     <description>A showcase of photography and photo editing by Nathan, plus Photoshop editing tutorial!</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://nathansskills.com/music.html</link>
+     <title>Music - Nathan's Music | Nathan's Skills</title>
+     <description> Nathan's top electronnic acoustic music and performance. </description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://nathansskills.com/video_editing.html</link>
+     <title>Video Editing - Nathan's Editing Portfolio | Nathan's Skills</title>
+     <description>Music, animation and tutorial videos by Nathan, and his recomended resources too!</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://nathansskills.com/web_design.html</link>
+     <title>Nathan's Web Design Skills</title>
+     <description>Hello, my name is Nathan, and this is a portfolio of my skills. Here you will find what I consider to be my best works whether they be 3D, 2D, Stop Motion, Web Development, Music, Photography, Photo Editing and more! </description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://nathansskills.com/about.html</link>
+     <title>About - About Nathan's Portfolio | Nathan's Skills</title>
+     <description>What is Nathan's Skills, and who is Nathan? PC components and contact information.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
