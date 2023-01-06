@@ -24,7 +24,7 @@ body {
 .links {
     text-decoration: none;
     background-color: none;
-    border-radius: 5px;
+    border-radius: 0px;
     padding: 5px;
     color:  #522f25;
     margin-top: 20px;
@@ -39,8 +39,92 @@ body {
 
 .links:hover {
     color:  #764234;
-    font-size: 25px;
+    font-size: 35px;
 }
+
+.special-links {
+    text-decoration: none;
+    background-color: #426557;
+    border-radius: 10px;
+    padding: 15px;
+    color:  #83cbad;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    transition: all;
+    transition-duration: 0.15s;
+}
+
+.special-links:hover{
+    font-size: 35px;
+}
+
+@media (max-width: 1080px) {
+    .links {
+        font-size: 18px;
+        padding: 3px;
+        margin-top: 14px;
+        margin-bottom: 14px;
+    }
+    .special-links {
+        font-size: 18px;
+        padding: 12px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .special-links:hover{
+        font-size: 24px;
+    }
+    .links:hover{
+        font-size: 24px;
+    }
+}
+
+@media (max-width: 720px) {
+    .links {
+        font-size: 16px;
+        padding: 3px;
+        margin-top: 8px;
+        margin-bottom: 8px;
+    }
+    .special-links {
+        font-size: 16px;
+        padding: 10px;
+        margin-top: 8px;
+        margin-bottom: 8px;
+    }
+    .special-links:hover{
+        font-size: 22px;
+    }
+    .links:hover{
+        font-size: 22px;
+    }
+}
+
+@media (max-width: 400px) {
+    .links {
+        font-size: 14px;
+        padding: 2px;
+        margin-top: 6px;
+        margin-bottom: 6px;
+    }
+    .special-links {
+        font-size: 14px;
+        padding: 2px;
+        margin-top: 6px;
+        margin-bottom: 6px;
+    }
+    .special-links:hover{
+        font-size: 8px;
+    }
+    .links:hover{
+        font-size: 8px;
+    }
+}
+
 
 .header-image {
     width: 100%;
@@ -167,7 +251,7 @@ body {
     align-items: center;
     width: 100%;
     max-width: 700px;
-    height: 1000px;
+    height: 100%;
     margin: auto;
 }
 
