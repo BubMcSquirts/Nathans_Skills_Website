@@ -168,6 +168,22 @@ body {
     max-width: 1000px;
 }
 
+.text-links{
+    color: #426557;
+    text-decoration: underline;
+    transition: all;
+    transition-duration: 0.15s;
+}
+
+.text-links:hover{
+    color: #E27D60;
+    text-decoration: none;
+    padding: 1%;
+    font-size: 120%;
+    background-color: #426557;
+    border-radius: 6px;
+}
+
 .videos {
     width: 100%;
     max-width: 1000px;
@@ -196,8 +212,6 @@ body {
     font-weight: 400;
     margin-bottom: 20px;
     text-align: center;
-    display: flex;
-    flex-direction: column;
 }
 
 .page-title {
